@@ -1,0 +1,45 @@
+.gap{
+    margin-right: 20px;
+}
+.container{
+    padding-top: 10px;
+}
+
+
+    
+    .carousel-indicators li {
+       
+        background-color:gold;
+       
+    }
+
+    .btn-dark{
+        background-color: black;
+        font-weight: 400;
+        padding:2px 12px;
+    }
+
+    .carousel-inner p{
+        color:grey;
+    }
+
+    .card-footer button{
+        padding:2px 12px;
+
+    }
+    .card-body{
+        text-align: center;
+    }
+
+    .card h6{
+        font-weight: 700;
+    }
+    .card p{
+        color: grey;
+   
+    }
+    h5{
+        text-decoration: underline;
+        text-decoration-color:goldenrod;
+     
+    }
